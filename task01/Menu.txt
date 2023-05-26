@@ -1,0 +1,2 @@
+orange juice,Drink,60
+lemonade,Drink,50

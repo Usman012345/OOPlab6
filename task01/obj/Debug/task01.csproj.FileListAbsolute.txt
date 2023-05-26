@@ -1,0 +1,7 @@
+E:\OOP\OOPlab6\task01\obj\Debug\task01.csproj.AssemblyReference.cache
+E:\OOP\OOPlab6\task01\obj\Debug\task01.csproj.CoreCompileInputs.cache
+E:\OOP\OOPlab6\task01\bin\Debug\task01.exe.config
+E:\OOP\OOPlab6\task01\bin\Debug\task01.exe
+E:\OOP\OOPlab6\task01\bin\Debug\task01.pdb
+E:\OOP\OOPlab6\task01\obj\Debug\task01.exe
+E:\OOP\OOPlab6\task01\obj\Debug\task01.pdb

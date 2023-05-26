@@ -1,0 +1,17 @@
+E:\OOP\OOPlab6\task02\bin\Debug\task02.exe.config
+E:\OOP\OOPlab6\task02\bin\Debug\task02.exe
+E:\OOP\OOPlab6\task02\bin\Debug\task02.pdb
+E:\OOP\OOPlab6\task02\obj\Debug\task02.csproj.AssemblyReference.cache
+E:\OOP\OOPlab6\task02\obj\Debug\task02.csproj.CoreCompileInputs.cache
+E:\OOP\OOPlab6\task02\obj\Debug\task02.exe
+E:\OOP\OOPlab6\task02\obj\Debug\task02.pdb
+E:\OOP\OOPlab6\task02\bin\Debug\EZInput.dll
+E:\OOP\OOPlab6\task02\bin\Debug\EZInput.xml
+E:\OOP\OOPlab6\task02\obj\Debug\task02.csproj.CopyComplete
+E:\OOP\OOPlab6\task02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OOP\OOPlab6\task02\bin\Debug\Unity.Abstractions.dll
+E:\OOP\OOPlab6\task02\bin\Debug\Unity.Container.dll
+E:\OOP\OOPlab6\task02\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\OOP\OOPlab6\task02\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\OOP\OOPlab6\task02\bin\Debug\Unity.Abstractions.pdb
+E:\OOP\OOPlab6\task02\bin\Debug\Unity.Container.pdb
